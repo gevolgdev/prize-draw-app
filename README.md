@@ -1,9 +1,9 @@
-## Sorteio
+# Sorteio
 
 Neste aplicativo o usuário terá a possiblidade de 
 fazer um sorteio com todos os nomes que ele colocar.
 
-# Como usar?
+## Como usar?
 
 1. Adicione os nomes desejado no campo de texto abaixo.
 2. Clique em "Salva Nome" para cada nome adicionado.
