@@ -38,12 +38,12 @@ function App() {
             </button>
         </div>
       }
-      <div className="flex flex-col justify-between items-center py-14 px-8 w-full h-screen">
+      <div className="flex flex-col justify-between items-center py-14 px-8 w-full h-screen bg-gradient-to-t from-indigo-500 via-purple-500 to-pink-500">
         <div className='flex flex-col w-full'>
-          <h1 className='text-5xl text-slate-900 font-bold'>Sorteie um nome!</h1>
+          <h1 className='text-7xl text-white font-bold'>Faça seu sorteio!</h1>
           <div className='flex flex-col gap-4 mt-10 w-full h-[250px]  overflow-auto'>
             {names.map((item, index) => 
-              <span className='w-full text-xl text-gray-900'>
+              <span className='w-full text-xl text-gray-100'>
                 • {item}
               </span>
             )}
